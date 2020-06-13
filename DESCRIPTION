@@ -1,0 +1,21 @@
+Package: packagr
+Title: Packagr Install And Load A List Of R Packages
+Version: 0.0.0.1000
+Authors@R: 
+    person(given = "Phil",
+           family = "Steinke",
+           role = c("aut", "cre"),
+           email = "phil@tgrrr.com")
+Description: Install then loads a list of packages.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
+RemoteType: git2r
+RemoteUrl: https://gitlab.com/botbotdotdotcom/packagr
+RemoteSha: 28a7d606b275452ca599b2d2e1385a664d161f38
+NeedsCompilation: no
+Packaged: 2019-10-23 06:24:04 UTC; charlie
+Author: Phil Steinke [aut, cre]
+Maintainer: Phil Steinke <phil@tgrrr.com>
+Built: R 3.6.1; ; 2019-10-23 06:24:04 UTC; unix
